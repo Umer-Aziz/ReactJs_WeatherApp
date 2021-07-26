@@ -1,0 +1,5 @@
+APIKEY 
+3b77b4bb1ea7395c2fb8f52810d03d4b
+
+by City name
+api.openweathermap.org/data/2.5/weather?q=karachi&appid=3b77b4bb1ea7395c2fb8f52810d03d4b
